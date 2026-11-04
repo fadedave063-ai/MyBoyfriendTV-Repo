@@ -1,0 +1,8 @@
+{
+  "name": "MyBoyfriendTV Repo",
+  "description": "Repositorio personalizado de Fade para Cloudstream",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/fadedave063-ai/MyBoyfriendTV-Repo/builds/plugins.json"
+  ]
+}
